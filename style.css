@@ -1,0 +1,146 @@
+.rima-ruma{
+    display: flex;
+    padding: 50px 50px 100px 120px;
+}
+h1{
+    font-size: 110px;
+    font-family: sans-serif;
+    color: rgb(46, 45, 45);
+    
+}
+p{
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.Link-button{
+    font-size: 25px;
+    
+    text-size-adjust: 20px;
+    border: 40px;
+    text-decoration: none;
+  background: linear-gradient(rgb(255, 166, 0), tomato);
+    color: white;
+    border-radius: 30px;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+}
+.orange-color{
+    color: coral;
+   
+   
+}
+.rima-raju{
+display: flex;
+padding-left: 80px;
+padding-right: 80px;
+padding-top: 15px;
+background-color:#F9EBEA;
+}
+.tuhin-rima{
+    padding-top: 10%;
+    padding-left: 200px;
+    
+}
+.tisha{
+    font-size: 70px;
+}
+p{
+    font-size: 20px;
+    padding-right: 30px;
+    font-weight: 200;
+}
+.rima-ruma img{
+    padding-top: 60px;
+}
+.rima{
+    padding-top: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+.riad{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.half-width{
+    
+   box-shadow: 2px 4px 4px 4px rgb(180, 177, 178);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: px;
+    border-radius: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+  
+    position: relative !important;
+    
+}
+
+.half-width img {
+    max-width: 100%;
+    border-radius: 30px;
+    
+}
+
+.jaan{
+    display: flex;
+    position: relative !important;
+    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.tahsin{
+    box-shadow: 1px 4px 4px 4px rgb(180, 177, 178);
+    border-radius: 30px;
+    display: flex;
+    margin: 80px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+   
+   
+
+}
+.murgi{
+    padding-left: 70px;
+    vertical-align: middle;
+    text-align: center;
+    
+}
+h3{
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: rgb(46, 45, 45);
+}
+.button{
+    text-decoration: none;
+    color: coral;
+}
+  h2{
+      font-family: sans-serif;
+       
+
+  } 
+   footer{
+       text-align: center;
+   }
+   .rahi{
+       font-size: x-large;
+       color: white;
+}
+.ritu{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-color: rgb(46, 45, 45);
+   color: white;
+}
+.mitu{
+    color: white;
+}
+
+
+   
+
+
